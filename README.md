@@ -1,0 +1,2 @@
+# Django__
+ Django basics
